@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Imagen de Rick and Morty](https://d.newsweek.com/en/full/823815/rick-morty-rest-ricklaxation.jpg)
