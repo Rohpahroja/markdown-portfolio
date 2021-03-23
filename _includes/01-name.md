@@ -1,2 +1,2 @@
-# Pues vamos a ver
-## Esperemos que esto funcione
+# Aprendiendo a trabajar con GitHub
+## Rocío Bataller Fernández
