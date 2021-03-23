@@ -1,8 +1,8 @@
-**Cosas que he aprendido:
+**Cosas que he aprendido:**
 
 ## 1. Introduction to GitHub 
 
-**Aprendiste sobre las propuestas, las solicitudes de extracción, y la estructura de un repositorio en GitHub
+**Aprendiste sobre las propuestas, las solicitudes de extracción, y la estructura de un repositorio en GitHub**
 
 1. Aprendiste sobre qué son las ramas en GitHub 
 2. Creaste una confirmación de cambios
@@ -13,7 +13,7 @@
 
 ## 2. Communicating using Markdown 
 
-**En este curso has conseguido:
+**En este curso has conseguido:**
 
 1. Añadir una lista de tareas a un comentario en una propuesta
 2. Activar GitHub Pages en tu repositorio
