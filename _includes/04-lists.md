@@ -1,6 +1,6 @@
 Cosas que he aprendido:
 
-# 1. Introduction to GitHub 
+## 1. Introduction to GitHub 
 
 Aprendiste sobre las propuestas, las solicitudes de extracción, y la estructura de un repositorio en GitHub
 
@@ -11,7 +11,7 @@ Aprendiste sobre las propuestas, las solicitudes de extracción, y la estructura
 5. Habilitaste GitHub Pages
 6. ¡Hiciste tu primera contribución!
 
-# 2. Communicating using Markdown 
+## 2. Communicating using Markdown 
 
 En este curso has conseguido:
 
@@ -24,7 +24,7 @@ En este curso has conseguido:
 	4. Añadiste una lista de tus logros en el archivo 04-lists.md
 	5. Usaste énfasis como negrita y cursiva en el archivo 05-emphasis.md
 
-# 3.Uploading your project to GitHub 
+## 3.Uploading your project to GitHub 
 
 1. Aprendí qué hacer con un repositorio vacío en GitHub.
 2. Creé un .gitignore y eliminé binarios voluminosos
