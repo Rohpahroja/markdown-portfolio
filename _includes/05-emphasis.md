@@ -1,5 +1,5 @@
-**Vamos a ver como se ve este texto en negrita**
+**Parece que todo está saliendo bien**
 
-_Y ahora este otro en cursiva_
+_El curso "First_day_on_GitHub" se completó correctamente_
 
-_Y porsupuesto **la mezcla** de ambos_
+_Ahora continuamos con el siguiente curso **"First_week_on_Github**_
