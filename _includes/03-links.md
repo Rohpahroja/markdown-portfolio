@@ -1,1 +1,1 @@
-[GitHub](https://rohpahroja.github.io/github-slideshow/#/)
+Primera parte: [Firs day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)
