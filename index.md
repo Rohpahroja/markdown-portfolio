@@ -23,3 +23,7 @@ layout: default
 <br>
 
 {% include 06-Segunda_Parte.md %}
+
+<br>
+
+{% include ResumenAprendizaje2.md %}
