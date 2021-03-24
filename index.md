@@ -22,6 +22,10 @@ layout: default
 
 <br>
 
+{% include image2.md %}
+
+<br>
+
 {% include 06-Segunda_Parte.md %}
 
 <br>
